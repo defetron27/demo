@@ -291,9 +291,9 @@ export function MusicUI() {
                                         <FontAwesomeIcon className="font-icon" icon={faFileCirclePlus} />
                                     </div>
                                 </Col>
-                                <Col className="col-5">
+                                <Col className="col-8">
                                     <div
-                                        className="notification-content d-flex justify-content-center flex-column  h-100">
+                                        className="notification-content d-flex justify-content-center flex-column h-100">
                                         <p className="mb-1 ">
                                             Playlist Added
                                         </p>
